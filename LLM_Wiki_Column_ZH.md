@@ -2,9 +2,9 @@
 title: "知识是被检索的,还是被积累的?"
 subtitle: "Karpathy 的 'LLM Wiki' 揭示的 RAG 极限,及其超越之道"
 author: "Dennis Kim (金镐光)"
-affiliation: "Betalabs 株式会社 CEO · Web3Paper 发行人"
+affiliation: "Cyworld CEO"
 date: 2026-04-20
-tags: [AI, LLM, RAG, 知识管理, Karpathy, Web3Paper]
+tags: [AI, LLM, RAG, 知识管理, Karpathy]
 lang: zh-CN
 ---
 
@@ -109,5 +109,4 @@ Karpathy 的 LLM Wiki 提议并非一个完成的架构,而是一个**提问**�
 ---
 
 **Dennis Kim(金镐光)**
-Betalabs 株式会社 CEO · Web3Paper 发行人
 ✉️ gameworker@gmail.com · 🐙 github.com/gameworkerkim
