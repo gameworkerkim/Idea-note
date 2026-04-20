@@ -2,9 +2,9 @@
 title: "지식은 검색되는가, 축적되는가?"
 subtitle: "Karpathy의 'LLM Wiki'가 드러낸 RAG의 한계, 그리고 그 너머"
 author: "Dennis Kim (김호광)"
-affiliation: "주식회사 베타랩스 대표이사 · Web3Paper 발행인"
+affiliation: "Cyworld CEO"
 date: 2026-04-20
-tags: [AI, LLM, RAG, Knowledge Management, Karpathy, Web3Paper]
+tags: [AI, LLM, RAG, Knowledge Management, Karpathy]
 lang: ko
 ---
 
@@ -109,5 +109,5 @@ Git 기반 버전 관리와 메타데이터 주석은 선택이 아니라 필수
 ---
 
 **Dennis Kim (김호광)**
-주식회사 베타랩스 대표이사 · Web3Paper 발행인
+
 ✉️ gameworker@gmail.com · 🐙 github.com/gameworkerkim
