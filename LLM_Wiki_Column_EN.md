@@ -2,9 +2,9 @@
 title: "Is Knowledge Retrieved, or Accumulated?"
 subtitle: "The Limits of RAG Exposed by Karpathy's 'LLM Wiki' — and What Lies Beyond"
 author: "Dennis Kim"
-affiliation: "CEO, Betalabs Inc. · Publisher, Web3Paper"
+affiliation: "Cyworld CEO"
 date: 2026-04-20
-tags: [AI, LLM, RAG, Knowledge Management, Karpathy, Web3Paper]
+tags: [AI, LLM, RAG, Knowledge Management, Karpathy]
 lang: en
 ---
 
@@ -109,5 +109,4 @@ What is clear is this: **the point is not that RAG was wrong, but that RAG alone
 ---
 
 **Dennis Kim**
-CEO, Betalabs Inc. · Publisher, Web3Paper
 ✉️ gameworker@gmail.com · 🐙 github.com/gameworkerkim
